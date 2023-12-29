@@ -7,8 +7,8 @@ Operating System: Raspian / Raspberry OS
 
 Folder structure
 
-main applications /home/~name~/app/wgt-server
-data location /home/~name~/app/data
+    main applications /home/~name~/app/wgt-server
+    data location /home/~name~/app/data
 
 ## Setup Activity:
 - Confirmed RPI was updated
