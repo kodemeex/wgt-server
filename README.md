@@ -50,7 +50,7 @@ Make sure there was a virtual enviornment
     - from /home/~name~/app
     - in the terminal, type
     - export FLASK_APP=server.py
-    - flask run --host=0.0.0.0
+    - flask run --host=0.0.0.0 --port=5005
 
     - go to a browser and type,
     - http://~ip address~:5005 << i.e. http://192.168.1.111:5005 or 10.0.0.1:5005 >>
