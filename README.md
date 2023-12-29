@@ -5,7 +5,7 @@ Raspberry Pi 5
 
 Operating System: Raspian / Raspberry OS
 
-Folder structure
+### Folder structure
 
     main applications /home/~name~/app/wgt-server
     data location /home/~name~/app/data
